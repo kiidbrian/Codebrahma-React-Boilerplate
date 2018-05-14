@@ -4,7 +4,7 @@ import styles from './index.scss';
 
 const Index = () => (
   <div className={styles.cb}>
-    Hello React!
+    Hello! Welcome to the React World!
   </div>
 );
 

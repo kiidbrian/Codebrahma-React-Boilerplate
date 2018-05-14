@@ -10,9 +10,9 @@
     }
   },
   "plugins": [
-    "react",
+    "react"
   ],
   "env": {
     "browser": true
-  },
+  }
 }
